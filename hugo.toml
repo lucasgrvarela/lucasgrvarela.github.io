@@ -12,7 +12,7 @@ title = 'Blog'
 [params]
 title = "Lucas Grigolon Varela"
 author = "Lucas Grigolon Varela"
-description = "Here I talk about Linux, Go, Kubernetes, Cloud, SRE and more"
+description = "Here I talk about Linux, Vim, Go, Kubernetes, Cloud Computing, DevOps, SRE and much more about Software Engineering"
 profilePicture = "images/profile.jpg"
 enableRobotsTXT = true
 
